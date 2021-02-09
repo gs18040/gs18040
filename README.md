@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Kubernetes, Go, tvm, Deep Learning (Computer Vision)
-
+- 🔭 I’m currently working on PS(Problem Solving) for fun!
 <!--
 **gs18040/gs18040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
